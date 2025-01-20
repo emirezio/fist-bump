@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-github-username>/fist-bump.git
+   git clone https://github.com/emirezio/fist-bump.git
    cd fist-bump
    ```
 
