@@ -104,3 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Special thanks to the open-source community and everyone who inspired this project by contributing to gesture recognition and file-sharing technologies. Your input is invaluable!
 
+---
+
+## Other Languages
+- [Türkçe (README_TR.md)](README_TR.md)
