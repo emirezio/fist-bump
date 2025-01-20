@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/<your-github-username>/fist-bump.git
+   git clone https://github.com/emirezio/fist-bump.git
    cd fist-bump
    ```
 
